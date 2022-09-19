@@ -34,7 +34,7 @@ obj.M2()
 def M3():
         a="SITA"
         b="RAM"
-        print("Method_1")
+        print("Method_3")
         print("Before swapping a : ",a," and b : ",b)
         a,b=b,a
         print("After swapping a : ",a," and b : ",b)
